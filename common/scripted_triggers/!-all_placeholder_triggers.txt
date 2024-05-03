@@ -128,6 +128,7 @@ has_expanded_events = { always = no }
 has_fully_upgraded_penal_capital = { always = no }
 has_gigastructures = { always = no }
 has_holosphere_portraits_revisited_active = { always = no }
+has_machines_robots_expac_continued = { always = no }
 has_major_upgraded_penal_capital = { always = no }
 has_mca_auth_cooperative = { always = no }
 has_mca_auth_private = { always = no }

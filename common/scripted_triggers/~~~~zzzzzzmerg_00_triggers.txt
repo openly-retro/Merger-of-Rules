@@ -1359,6 +1359,8 @@ can_be_leader = {
 	has_citizenship_rights = yes
 	NOT = { has_trait = trait_syncretic_proles }
 	can_think = yes
+	# Machines & Robots Expansion Continued
+	oxr_mdlc_can_be_leader = yes
 	OR = {
 		is_robot_pop = no
 		root = {
