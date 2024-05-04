@@ -539,3 +539,7 @@ is_planet_class_pc_y_star = { always = no }
 is_sparta_citizenship_full = { always = no }
 # Ethical Gestalts
 is_machine_assimilator = { always = no }
+# Machines & Robots Expansion Continued
+oxr_mdlc_can_be_leader = { always = no }
+oxr_mdlc_can_species_be_assembled = { always = no }
+oxr_mdlc_can_release_vassal_from_species = { always = no }
